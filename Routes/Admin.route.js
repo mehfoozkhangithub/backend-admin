@@ -14,7 +14,7 @@ const adminBro = new AdminBro({
     logo: "",
     companyName: "PURPLLE",
     softwareBrothers: false,
-    theme: "https://www.w3schools.com/lib/w3-theme-indigo.css",
+   // theme: "https://www.w3schools.com/lib/w3-theme-indigo.css",
     favicon: "",
     admin: "",
     url: "",
